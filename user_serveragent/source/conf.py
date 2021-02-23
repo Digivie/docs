@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'File Server Agent User Guide'
-copyright = '2018, Gladinet, Inc.'
-author = 'Gladinet, Inc.'
+copyright = '2021 DigiVie Communications Inc.'
+author = 'DigiVie'
 
-prodname = 'CentreStack'
+prodname = 'inTouch Sync'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
