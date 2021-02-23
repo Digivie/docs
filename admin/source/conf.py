@@ -50,10 +50,10 @@ master_doc = 'contents'
 
 # General information about the project.
 project = 'Administration Guide'
-copyright = '2019, Gladinet, Inc.'
-author = 'gladinet'
+copyright = '2021, DigiVie Communications Inc.'
+author = 'DigiVie'
 
-prodname = 'CentreStack'
+prodname = 'inTouch Sync'
 
 rst_epilog = '.. |prodname| replace:: %s' % prodname
 
